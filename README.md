@@ -1,2 +1,2 @@
-# ProcessoSeletivo
-Projeto proposto para vaga de dev front-end
+# https://jessica1409.github.io/PS/
+Processo Seletivo - HTML e CSS 
