@@ -1,8 +1,9 @@
-✨ Desafio Processo Seletivo - HTML, CSS e JavaScript ✨
+✨ Desafio Processo Seletivo - HTML, CSS e jQuery ✨
 
-Descrição: utilizando HTML, CSS e Javascript foi realizado a criação desta página com base em um template enviado pela recrutadora 
+**Descrição:** utilizando HTML, CSS e jQuery foi realizado a criação desta página com base em um template enviado pela recrutadora 
 utilizado jquery para o carousel de imagens. <br>
-[Clique aqui para visualizar](https://jessicamotta.github.io/ProcessoSeletivo/) <hr>
+
+[Clique aqui para visualizar o projeto finalizado](https://jessicamotta.github.io/ProcessoSeletivo/) <hr>
 
 <!--Imagem Template-->
 <div align ="center" >
